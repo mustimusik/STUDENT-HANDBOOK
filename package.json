@@ -1,0 +1,12 @@
+{
+  "name": "student-handbook",
+  "private": true,
+  "description": "Student Handbook Musti Musik — konten, visual, dan script pembuat dokumen",
+  "scripts": {
+    "visuals": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/visuals.ps1",
+    "build": "node tools/build.js"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}

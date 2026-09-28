@@ -1,0 +1,287 @@
+{
+  "level": 0,
+  "songNotes": {
+    "1": "[Lagu 1] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "2": "[Lagu 1] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "3": "[Lagu 2] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "4": "[Lagu 2] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "5": "[Lagu 3] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "6": "[Lagu 3] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "7": "[Lagu 4] ⭐ WAJIB A1: Kingkong Badannya Besar · sama untuk semua murid · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "8": "[Lagu 4] ⭐ WAJIB A1: Kingkong Badannya Besar · sama untuk semua murid · Tampil: mainkan utuh di depan guru",
+    "9": "[Lagu 5] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "10": "[Lagu 5] · pilih dari Bank Lagu Term 1 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "11": "[Lagu 6] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "12": "[Lagu 6] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "13": "[Lagu 7] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "14": "[Lagu 7] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "15": "[Lagu 8] ⭐ WAJIB A2: Aku Anak Raja · sama untuk semua murid · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "16": "[Lagu 8] ⭐ WAJIB A2: Aku Anak Raja · sama untuk semua murid · Tampil: mainkan utuh di depan guru",
+    "17": "[Lagu 9] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "18": "[Lagu 9] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "19": "[Lagu 10] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "20": "[Lagu 10] · pilih dari Bank Lagu Term 2 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "21": "[Lagu 11] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "22": "[Lagu 11] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "23": "[Lagu 12] ⭐ WAJIB A3: When the Saints Go Marching In · sama untuk semua murid · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "24": "[Lagu 12] ⭐ WAJIB A3: When the Saints Go Marching In · sama untuk semua murid · Tampil: mainkan utuh di depan guru",
+    "25": "[Lagu 13] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "26": "[Lagu 13] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "27": "[Lagu 14] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "28": "[Lagu 14] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "29": "[Lagu 15] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "30": "[Lagu 15] · pilih dari Bank Lagu Term 3 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "31": "[Lagu 16] ⭐ WAJIB A4: Bapa Abraham · sama untuk semua murid · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "32": "[Lagu 16] ⭐ WAJIB A4: Bapa Abraham · sama untuk semua murid · Tampil: mainkan utuh di depan guru",
+    "33": "[Lagu 17] · pilih dari Bank Lagu Term 4 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "34": "[Lagu 17] · pilih dari Bank Lagu Term 4 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "35": "[Lagu 18] · pilih dari Bank Lagu Term 4 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "36": "[Lagu 18] · pilih dari Bank Lagu Term 4 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "37": "[Lagu 19] · pilih dari Bank Lagu Term 4 (Pop/Jazz/Worship/Klasik) · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "38": "[Lagu 19] · pilih dari Bank Lagu Term 4 (Pop/Jazz/Worship/Klasik) · Mantapkan: lagu utuh, tempo stabil, dinamika",
+    "39": "[Lagu 20] ⭐ WAJIB A5: What a Wonderful World · sama untuk semua murid · Belajar: bagian awal, tangan terpisah lalu gabung",
+    "40": "Ujian: [Lagu 20] ⭐ WAJIB A5: What a Wonderful World + 2 lagu pilihan dari Level 0 (genre berbeda)"
+  },
+  "bank": [
+    {
+      "term": 1,
+      "no": 1,
+      "pop": {
+        "title": "Beauty and the Beast — BT, Full",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Satin Doll",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Kingkong Badannya Besar",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Andante Verde",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 1,
+      "no": 2,
+      "pop": {
+        "title": "Imagine — Solo",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Work Song",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Setinggi-tingginya Langit",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Celebration Duet",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 1,
+      "no": 3,
+      "pop": {
+        "title": "La Valse d’Amélie — Solo",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Song for My Father",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Hati-Hati Gunakan Tanganmu",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Celebration Primo",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 2,
+      "no": 1,
+      "pop": {
+        "title": "Lean on Me — BT, Full",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "When the Saints Go Marching In",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Dengar Dia Panggil Nama Saya",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Celebration Secondo",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 2,
+      "no": 2,
+      "pop": {
+        "title": "Love Yourself — Solo",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "What a Wonderful World",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Aku Anak Raja",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Martian’s March",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 2,
+      "no": 3,
+      "pop": {
+        "title": "Next to Me — BT, Full",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Lucy's Blues (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Jalan Serta Yesus",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Play (Allegretto)",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 3,
+      "no": 1,
+      "pop": {
+        "title": "Heathens — Twenty One Pilots",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Saturday Night (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Dari Terbit Matahari",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Sandacastle",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 3,
+      "no": 2,
+      "pop": {
+        "title": "Down in the River to Pray — Traditional",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Bah-Ba-Doo-Bah (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Bapa Abraham",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Swing Low, Sweet Chariot",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 3,
+      "no": 3,
+      "pop": {
+        "title": "Danny — Daniel Rosenfeld",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Early Bird (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "T'rimakasih Yesusku",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Vignette No. 1",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 4,
+      "no": 1,
+      "pop": {
+        "title": "In the Dark — Victoria Proudler",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "So What (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Yesus Besertaku",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "Una Mattina",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 4,
+      "no": 2,
+      "pop": {
+        "title": "Vanishing Footprints — Rockschool Original",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Step Time (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Laskar Kristus",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "KURANG LAGU",
+        "hasSheet": false
+      }
+    },
+    {
+      "term": 4,
+      "no": 3,
+      "pop": {
+        "title": "Home to Philadelphia — Rockschool Original",
+        "hasSheet": false
+      },
+      "jazz": {
+        "title": "Window Shopping (dari list Jazz Grade 1)",
+        "hasSheet": false
+      },
+      "worship": {
+        "title": "Happy Ya Ya Ya",
+        "hasSheet": false
+      },
+      "klasik": {
+        "title": "KURANG LAGU",
+        "hasSheet": false
+      }
+    }
+  ]
+}
